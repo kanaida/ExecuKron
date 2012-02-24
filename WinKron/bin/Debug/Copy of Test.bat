@@ -1,4 +1,0 @@
-﻿C:
-CD\
-CD WINDOWS
-DIR
