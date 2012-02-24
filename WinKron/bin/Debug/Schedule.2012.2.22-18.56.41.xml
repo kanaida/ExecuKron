@@ -1,0 +1,1105 @@
+<?xml version="1.0" standalone="yes"?>
+<DS_Kron xmlns="http://tempuri.org/DS_Kron.xsd">
+  <Schedule>
+    <Id>0</Id>
+    <Name>Every 5 Minutes</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>5</int>
+      <int>10</int>
+      <int>15</int>
+      <int>20</int>
+      <int>25</int>
+      <int>30</int>
+      <int>35</int>
+      <int>40</int>
+      <int>45</int>
+      <int>50</int>
+      <int>55</int>
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>1</Id>
+    <Name>Mon @ 3AM</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>3</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>2</Id>
+    <Name>Tue-Sun @ 3AM</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>3</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>4</Id>
+    <Name>Every Hour</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>5</Id>
+    <Name>Factories (Mon, Thu 9PM)</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>9</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>4</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>6</Id>
+    <Name>Warehouses (Mon-Fri, 12PM, 4PM)</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+      <int>32</int>
+      <int>33</int>
+      <int>34</int>
+      <int>35</int>
+      <int>36</int>
+      <int>37</int>
+      <int>38</int>
+      <int>39</int>
+      <int>40</int>
+      <int>41</int>
+      <int>42</int>
+      <int>43</int>
+      <int>44</int>
+      <int>45</int>
+      <int>46</int>
+      <int>47</int>
+      <int>48</int>
+      <int>49</int>
+      <int>50</int>
+      <int>51</int>
+      <int>52</int>
+      <int>53</int>
+      <int>54</int>
+      <int>55</int>
+      <int>56</int>
+      <int>57</int>
+      <int>58</int>
+      <int>59</int>
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>7</Id>
+    <Name>Pipeline (All, 8AM,12,4,6,8PM)</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>8</int>
+      <int>12</int>
+      <int>16</int>
+      <int>18</int>
+      <int>20</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>9</Id>
+    <Name>Cartons Not Sent (8AM,4,6PM)</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>8</int>
+      <int>16</int>
+      <int>18</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>11</Id>
+    <Name>CIT Credit Status @ 6AM</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>6</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>13</Id>
+    <Name>Friday @ 6:30PM</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>30</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>18</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>5</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <Schedule>
+    <Id>15</Id>
+    <Name>Unix Mail Cleanup @ 8 AM</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>8</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <ScheduleTask>
+    <ScheduleId>0</ScheduleId>
+    <TaskId>0</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>3</LastExitCode>
+    <LastOutput>Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug&gt;C:\PRODUCTION_PROGRAMS\ShippingLabelArchiver\ShippingLabelArchiver.exe
+
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug&gt;exit
+</LastOutput>
+    <LastError>The system cannot find the path specified.
+</LastError>
+    <LastStartTime>2012-02-22T18:55:04.3593442-05:00</LastStartTime>
+    <LastEndTime>2012-02-22T18:55:04.4062192-05:00</LastEndTime>
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>1</ScheduleId>
+    <TaskId>2</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>2</ScheduleId>
+    <TaskId>1</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>4</ScheduleId>
+    <TaskId>3</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>5</ScheduleId>
+    <TaskId>5</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>6</ScheduleId>
+    <TaskId>6</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>3</LastExitCode>
+    <LastOutput>Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug&gt;C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_OpenAPN.bat
+
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug&gt;exit
+</LastOutput>
+    <LastError>The system cannot find the path specified.
+</LastError>
+    <LastStartTime>2012-02-22T18:56:04.3593442-05:00</LastStartTime>
+    <LastEndTime>2012-02-22T18:56:04.4062192-05:00</LastEndTime>
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>7</ScheduleId>
+    <TaskId>7</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>9</ScheduleId>
+    <TaskId>8</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>11</ScheduleId>
+    <TaskId>9</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>13</ScheduleId>
+    <TaskId>11</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <ScheduleTask>
+    <ScheduleId>15</ScheduleId>
+    <TaskId>13</TaskId>
+    <Enabled>true</Enabled>
+    <Running>false</Running>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput />
+    <LastError />
+  </ScheduleTask>
+  <Task>
+    <Id>0</Id>
+    <Name>Move shipping labels to archive</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\ShippingLabelArchiver\ShippingLabelArchiver.exe</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+  </Task>
+  <Task>
+    <Id>1</Id>
+    <Name>Reports (Tue-Sun)</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_AllDays.Bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>2</Id>
+    <Name>Reports (Monday)</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_Mondays.Bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>3</Id>
+    <Name>Get UPS QuantumView Data</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\QunatumViewSync\UPS_QuantumViewSync.exe</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>5</Id>
+    <Name>Factory Notifications</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_Factory.Bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>6</Id>
+    <Name>Open APN (Warehouse)</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_OpenAPN.bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>7</Id>
+    <Name>Customer Pipeline - Internal</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_PipelineInternal.Bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>8</Id>
+    <Name>Cartons not sent</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_CartonsNotSent.Bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>9</Id>
+    <Name>CIT Credit Status</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\CIT_Transmissions\CIT Transmissions.exe</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>false</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>11</Id>
+    <Name>Weekly Summary</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\MAS_ReportServer\SendReports_WeeklySummary.Bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>true</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <Task>
+    <Id>13</Id>
+    <Name>Clean sent unix mail older than one day</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>C:\PRODUCTION_PROGRAMS\Adel\ADel.exe</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+    <SuccessNotify>false</SuccessNotify>
+    <FailNotify>true</FailNotify>
+  </Task>
+  <NotificationEmail>
+    <Email>administrator@flmiami.com</Email>
+  </NotificationEmail>
+</DS_Kron>

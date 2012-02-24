@@ -1,0 +1,322 @@
+<?xml version="1.0" standalone="yes"?>
+<DS_Kron xmlns="http://tempuri.org/DS_Kron.xsd">
+  <Schedule>
+    <Id>0</Id>
+    <Name>Every Minute</Name>
+    <Minutes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+      <int>32</int>
+      <int>33</int>
+      <int>34</int>
+      <int>35</int>
+      <int>36</int>
+      <int>37</int>
+      <int>38</int>
+      <int>39</int>
+      <int>40</int>
+      <int>41</int>
+      <int>42</int>
+      <int>43</int>
+      <int>44</int>
+      <int>45</int>
+      <int>46</int>
+      <int>47</int>
+      <int>48</int>
+      <int>49</int>
+      <int>50</int>
+      <int>51</int>
+      <int>52</int>
+      <int>53</int>
+      <int>54</int>
+      <int>55</int>
+      <int>56</int>
+      <int>57</int>
+      <int>58</int>
+      <int>59</int>
+      <int>0</int>
+    </Minutes>
+    <Hours xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+      <int>32</int>
+      <int>33</int>
+      <int>34</int>
+      <int>35</int>
+      <int>36</int>
+      <int>37</int>
+      <int>38</int>
+      <int>39</int>
+      <int>40</int>
+      <int>41</int>
+      <int>42</int>
+      <int>43</int>
+      <int>44</int>
+      <int>45</int>
+      <int>46</int>
+      <int>47</int>
+      <int>48</int>
+      <int>49</int>
+      <int>50</int>
+      <int>51</int>
+      <int>52</int>
+      <int>53</int>
+      <int>54</int>
+      <int>55</int>
+      <int>56</int>
+      <int>57</int>
+      <int>58</int>
+      <int>59</int>
+      <int>0</int>
+    </Hours>
+    <DaysOfWeek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </DaysOfWeek>
+    <DaysOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+      <int>15</int>
+      <int>16</int>
+      <int>17</int>
+      <int>18</int>
+      <int>19</int>
+      <int>20</int>
+      <int>21</int>
+      <int>22</int>
+      <int>23</int>
+      <int>24</int>
+      <int>25</int>
+      <int>26</int>
+      <int>27</int>
+      <int>28</int>
+      <int>29</int>
+      <int>30</int>
+      <int>31</int>
+    </DaysOfMonth>
+    <Months xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </Months>
+    <Enabled>true</Enabled>
+  </Schedule>
+  <ScheduleTask>
+    <ScheduleId>0</ScheduleId>
+    <TaskId>0</TaskId>
+    <Enabled>true</Enabled>
+    <LastExitCode>0</LastExitCode>
+    <LastOutput>Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug&gt;Test.Bat
+
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug&gt;∩╗┐C:
+
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug&gt;CD\
+
+C:\&gt;CD WINDOWS 
+
+C:\Windows&gt;DIR
+ Volume in drive C has no label.
+ Volume Serial Number is 7C25-6992
+
+ Directory of C:\Windows
+
+12/28/2011  01:26 PM    &lt;DIR&gt;          .
+12/28/2011  01:26 PM    &lt;DIR&gt;          ..
+07/14/2009  12:32 AM    &lt;DIR&gt;          addins
+08/25/2011  06:36 PM                46 ADSLOCAL.CFG
+07/13/2009  10:20 PM    &lt;DIR&gt;          AppCompat
+08/10/2011  02:15 AM    &lt;DIR&gt;          AppPatch
+08/09/2011  11:23 PM    &lt;DIR&gt;          AutoKMS
+11/20/2010  07:24 AM            71,168 bfsvc.exe
+07/14/2009  12:32 AM    &lt;DIR&gt;          Boot
+07/14/2009  12:32 AM    &lt;DIR&gt;          Branding
+06/29/2011  09:03 PM    &lt;DIR&gt;          CSC
+07/14/2009  12:32 AM    &lt;DIR&gt;          Cursors
+07/18/2011  11:33 AM    &lt;DIR&gt;          debug
+07/14/2009  12:32 AM    &lt;DIR&gt;          diagnostics
+07/14/2009  12:37 AM    &lt;DIR&gt;          DigitalLocker
+08/29/2011  02:22 PM    &lt;DIR&gt;          Downloaded Installations
+08/08/2011  02:41 PM    &lt;DIR&gt;          Downloaded Program Files
+06/29/2011  09:04 PM             1,774 DtcInstall.log
+01/11/2012  03:22 AM    &lt;DIR&gt;          ehome
+07/14/2009  12:37 AM    &lt;DIR&gt;          en-US
+08/09/2011  06:14 PM             1,945 epplauncher.mif
+02/25/2011  01:19 AM         2,871,808 explorer.exe
+07/13/2009  08:39 PM            15,360 fveupdate.exe
+07/14/2009  02:50 AM    &lt;DIR&gt;          Globalization
+07/14/2009  12:37 AM    &lt;DIR&gt;          Help
+07/13/2009  08:39 PM           733,696 HelpPane.exe
+07/13/2009  08:39 PM            16,896 hh.exe
+06/29/2011  07:06 PM             3,301 IE9_main.log
+07/14/2009  12:37 AM    &lt;DIR&gt;          IME
+02/20/2012  08:00 PM    &lt;DIR&gt;          inf
+08/09/2011  05:43 PM           151,552 KMSEmulator.exe
+07/14/2009  12:32 AM    &lt;DIR&gt;          L2Schemas
+07/13/2009  09:34 PM    &lt;DIR&gt;          LiveKernelReports
+12/22/2011  06:19 PM    &lt;DIR&gt;          Logs
+07/13/2009  06:06 PM            43,131 mib.bin
+02/20/2012  10:11 PM    &lt;DIR&gt;          Microsoft.NET
+07/13/2009  09:34 PM    &lt;DIR&gt;          ModemLogs
+06/10/2009  03:36 PM             1,405 msdfmap.ini
+08/30/2011  02:00 AM           290,466 msxml4-KB954430-enu.LOG
+08/30/2011  02:00 AM           286,492 msxml4-KB973688-enu.LOG
+07/13/2009  08:39 PM           193,536 notepad.exe
+07/14/2009  12:32 AM    &lt;DIR&gt;          Offline Web Pages
+06/29/2011  09:09 PM    &lt;DIR&gt;          Panther
+07/01/2011  02:19 PM    &lt;DIR&gt;          PCHEALTH
+07/14/2009  12:32 AM    &lt;DIR&gt;          Performance
+02/20/2012  07:56 PM            16,764 PFRO.log
+07/13/2009  10:20 PM    &lt;DIR&gt;          PLA
+06/29/2011  07:08 PM    &lt;DIR&gt;          PolicyDefinitions
+02/22/2012  02:01 PM    &lt;DIR&gt;          Prefetch
+07/13/2009  08:39 PM           427,008 regedit.exe
+07/13/2009  10:20 PM    &lt;DIR&gt;          Registration
+07/14/2009  02:46 AM    &lt;DIR&gt;          RemotePackages
+12/15/2011  04:09 AM    &lt;DIR&gt;          rescache
+07/14/2009  12:32 AM    &lt;DIR&gt;          Resources
+07/13/2009  09:35 PM    &lt;DIR&gt;          SchCache
+07/14/2009  12:32 AM    &lt;DIR&gt;          schemas
+07/14/2009  02:46 AM    &lt;DIR&gt;          security
+07/13/2009  11:45 PM    &lt;DIR&gt;          ServiceProfiles
+06/29/2011  06:51 PM    &lt;DIR&gt;          servicing
+07/13/2009  11:45 PM    &lt;DIR&gt;          Setup
+02/20/2012  07:56 PM            20,419 setupact.log
+07/13/2009  11:51 PM                 0 setuperr.log
+08/09/2011  05:35 PM    &lt;DIR&gt;          ShellNew
+07/01/2011  02:20 PM    &lt;DIR&gt;          SoftwareDistribution
+07/14/2009  12:37 AM    &lt;DIR&gt;          Speech
+11/20/2010  07:25 AM            67,072 splwow64.exe
+06/10/2009  03:31 PM            48,201 Starter.xml
+07/01/2011  02:23 PM    &lt;DIR&gt;          symbols
+07/13/2009  09:36 PM    &lt;DIR&gt;          system
+06/10/2009  04:08 PM               219 system.ini
+02/20/2012  08:00 PM    &lt;DIR&gt;          System32
+02/20/2012  07:55 PM    &lt;DIR&gt;          SysWOW64
+07/13/2009  11:57 PM    &lt;DIR&gt;          TAPI
+10/04/2011  08:38 PM    &lt;DIR&gt;          Tasks
+02/22/2012  01:17 PM    &lt;DIR&gt;          Temp
+07/13/2009  09:34 PM    &lt;DIR&gt;          tracing
+06/29/2011  09:04 PM             1,313 TSSysprep.log
+06/10/2009  04:41 PM            94,784 twain.dll
+07/14/2009  12:32 AM    &lt;DIR&gt;          twain_32
+11/20/2010  06:21 AM            51,200 twain_32.dll
+06/10/2009  04:41 PM            49,680 twunk_16.exe
+07/13/2009  08:14 PM            31,232 twunk_32.exe
+06/10/2009  03:31 PM            51,867 Ultimate.xml
+12/09/2011  10:15 AM           157,024 UnDeploy.exe
+07/13/2009  10:20 PM    &lt;DIR&gt;          Vss
+07/14/2009  12:32 AM    &lt;DIR&gt;          Web
+08/09/2011  05:32 PM               478 win.ini
+02/22/2012  12:19 PM         2,074,114 WindowsUpdate.log
+07/13/2009  08:14 PM             9,728 winhlp32.exe
+02/15/2012  03:24 AM    &lt;DIR&gt;          winsxs
+06/10/2009  03:52 PM           316,640 WMSysPr9.prx
+07/13/2009  08:39 PM            10,240 write.exe
+              34 File(s)      8,110,559 bytes
+              58 Dir(s)   3,796,901,888 bytes free
+
+C:\Windows&gt;exit
+</LastOutput>
+    <LastError>'∩╗┐C:' is not recognized as an internal or external command,
+operable program or batch file.
+</LastError>
+    <LastStartTime>2012-02-22T14:48:20.4912385-05:00</LastStartTime>
+    <LastEndTime>2012-02-22T14:48:20.5537385-05:00</LastEndTime>
+  </ScheduleTask>
+  <Task>
+    <Id>0</Id>
+    <Name>Get C:\ contents</Name>
+    <User>administrator</User>
+    <Password>Kombat12</Password>
+    <Command>Test.Bat</Command>
+    <Parameters />
+    <Enabled>true</Enabled>
+  </Task>
+</DS_Kron>

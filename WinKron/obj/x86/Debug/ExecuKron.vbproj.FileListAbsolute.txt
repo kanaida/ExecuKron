@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug\Copy of Test.bat
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug\Test.bat
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug\WinKron.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug\WinKron.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Debug\WinKron.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\WinKron.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\WinKron.ScheduleForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\WinKron.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\WinKron.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Debug\WinKron.pdb

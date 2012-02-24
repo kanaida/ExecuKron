@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Release\Configure.Designer.vb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Release\Configure.bat
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Release\ExecuKron.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Release\ExecuKron.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\bin\Release\ExecuKron.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\WinKron.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\WinKron.ScheduleForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\ExecuKron.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\ExecuKron.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\WinKron\WinKron\obj\x86\Release\ExecuKron.pdb
